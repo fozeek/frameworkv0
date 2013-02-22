@@ -1,0 +1,14 @@
+<rss version="2.0">
+    <channel>
+        <title>Webtuts</title>
+        <link>http://webtuts.fr</link>
+        <description>Les tutoriaux Webtuts</description>
+        <item>
+            <title>HTML5, Awesome !</title>
+            <link>http://webtuts.fr/en/category-integration/article-html5-awesome.html</link>
+            <guid isPermaLink="True"></guid>
+            <description></description>
+            <pubDate>2012-12-15 00:00:00</pubDate>
+        </item>
+    </channel>
+</rss>

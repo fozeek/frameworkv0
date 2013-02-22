@@ -1,0 +1,63 @@
+a {
+	color: #3F6EC2;
+	text-decoration: none;
+}
+
+.itemlist {
+	display: block;
+	text-decoration: none;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 15px;
+}
+
+.itemlist:hover {
+	text-decoration: none;
+	background: #F9F9F9;
+	border-top: 1px solid #E5E5E5;
+	margin-top: -1px;
+	margin-left: -20px;
+	margin-right: -20px;
+	padding-right: 35px;
+	padding-left: 35px;
+}
+
+input[type=text] {
+	margin: 0px;
+	padding: 4px;
+	border-radius: 2px;
+	border: 1px solid #B9B9B9;
+	outline: none;
+	font-size: 1em;
+	width: 100%;
+	max-width: 400px;
+}
+
+input[type=submit] {
+	margin: 0px;
+	padding: 4px;
+	border-radius: 2px;
+	cursor: pointer;
+	border: 1px solid #B9B9B9;
+	background: url(../images/bgButtGrey.png);
+	color: #666;
+	text-shadow: 0px 1px 0px white;
+	font-size: 1em;
+}
+
+input[type=submit]:hover {
+}
+
+input[type=submit]:active {
+}
+
+textarea {
+	margin: 0px;
+	padding: 4px;
+	border-radius: 2px;
+	border: 1px solid #B9B9B9;
+	outline: none;
+	font-size: 1em;
+	width: 100%;
+	max-width: 100%;
+	min-height: 130px;
+}

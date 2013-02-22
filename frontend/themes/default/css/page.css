@@ -1,0 +1,63 @@
+#about-page p{
+    margin-top: 30px;
+    line-height: 20px;
+}
+#about-page p > span.blue{
+    color: #3F6EC2
+}
+
+/** contact page **/
+#contact-page label.label {
+	display: block;
+	float: left;
+	width: 200px;
+	height: 30px;
+	padding-top: 10px;
+}
+#contact-page div.marginAuto {
+	margin-top: 20px;
+	margin-left: 200px;
+}
+#contact-page .input-contact {
+	width: 400px;
+}
+#contact-page textarea.textarea {
+	width: 500px;
+	max-width: 500px;
+}
+#contact-page .border-big-title{
+    margin-bottom: 20px;
+}
+#contact-page .middle-column p{
+    margin: 10px 0 30px 0;
+}
+
+/** partner page **/
+#partner-page .soon-container{
+    width: 450px;
+    margin: 30px auto;
+}
+#partner-page .soon-container h1{
+    font-size: 5em;
+    color: #333;
+    line-height: 130px;
+}
+
+/** sitemap page **/
+#sitemap-page .sitemap-container{
+    margin: 30px auto;
+    width: 750px;
+}
+#sitemap-page .category-sitemap{
+    float:left;
+    width: 250px;
+    text-align: center;
+}
+#sitemap-page .category-sitemap h2{
+    font-family: 'Segoe UI light';
+    font-size: 24px;
+    color: #3F6EC2;
+}
+#sitemap-page .category-sitemap a{
+    line-height: 20px;
+}

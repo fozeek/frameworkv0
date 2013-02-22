@@ -1,0 +1,143 @@
+#connection-page #explanation-text-page{
+
+    margin: 20px 0 30px 0;
+}
+#connection-page #login-form{
+    margin: auto;
+    width: 350px;
+    
+}
+
+/** profil page **/
+#profil-page #explanation-text-page{
+
+    margin: 20px 0 30px 0;
+}
+#profil-page .informations-minor-container{
+    padding: 10px;
+    width: 400px;
+    background: #fff;
+    
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -o-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -ms-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    
+    float: right;
+}
+#profil-page .informations-major-container{
+    padding: 10px;
+    width: 400px;
+    background: #fff;
+    
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -moz-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -o-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    -ms-box-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    
+    float: left;
+}
+#profil-page .informations-major-container h2, #profil-page .informations-minor-container h2{
+    font-family: "Segoe UI light";
+    color: #3F6EC2;
+    font-weight: normal;
+    font-size: 24px;
+    margin: 0 0 10px 0;
+}
+#profil-page .informations-major-container img{
+    margin: 10px 30px 10px 53px;
+    
+    border: 2px solid #ccc;
+    
+    float: left;
+    display: block;
+}
+#profil-page .informations-major-container .pContainer, #profil-page .informations-minor-container .pContainer{
+    float: left;
+    display: block;
+    margin-top: 5px;
+    margin-left: 33px;
+}
+#profil-page .informations-major-container .pContainer label.label-presentation, #profil-page .informations-minor-container .pContainer label.label-presentation{
+    font-size: 18px;
+    color: #3F6EC2;
+    
+}
+#profil-page .informations-major-container .pContainer p, #profil-page .informations-minor-container .pContainer p{
+    font-size: 18px;
+    line-height:22px;
+    margin-bottom: 10px;
+}
+#profil-page .informations-major-container, #profil-page .informations-minor-container{
+    margin-top: 20px;
+}
+#oiseau-congrats{
+    background: transparent url(../images/oiseau-modele.png) center center no-repeat;
+    width: 73px;
+    height: 94px;
+    float: left;
+    margin-top: 80px;
+}
+#bulle-paf{
+    float: left;
+    background: transparent url(../images/bulle_bd.png) center top no-repeat;
+    
+    width: 226px;
+    height: 150px;
+    margin-top: -50px;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.tooltip, .main-tooltip
+{
+	display: none;
+	padding: 10px;
+	background-color: #F7E7E7;
+	color: #AE3638;
+	margin: 0 0 8px 150px;
+	
+	border: 1px solid #ccc;
+	moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+/** subscription page **/
+#subscription-page .left-column, #compte-page .left-column{
+    float: left;
+    width: 470px;
+}
+#subscription-page .right-column, #compte-page .right-column{
+    float: right;
+    width: 470px;
+}
+#subscription-page #explanation-text-page, #compte-page #explanation-text-page{
+    float: none;
+    text-align: justify;
+    margin: 20px 0 30px 0;
+}
+
+/** form **/
+#subscription-page #register-form h2, #compte-page #register-form h2{
+    font-family: 'Segoe UI light';
+    font-size: 18px;
+    color: #333;
+}
+#subscription-page h4, #compte-page h4{
+    font-size: 12px;
+}

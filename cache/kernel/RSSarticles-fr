@@ -1,0 +1,14 @@
+<rss version="2.0">
+    <channel>
+        <title>Webtuts</title>
+        <link>http://webtuts.fr</link>
+        <description>Les tutoriaux Webtuts</description>
+        <item>
+            <title>Le HTML5, super !</title>
+            <link>http://webtuts.fr/fr/categorie-integration/article-le-html5-super.html</link>
+            <guid isPermaLink="True"></guid>
+            <description>Lorem ipsum dolor sit amet, consecterus us adipiscing elit. Lorem ipsum dolor sit amet, consecterus us adipiscing elit. Lorem ipsum dolor sit amet, consecterus us adipiscing elit. Lorem ipsum dolor sit amet, consecterus us adipiscing elit.</description>
+            <pubDate>2012-12-15 00:00:00</pubDate>
+        </item>
+    </channel>
+</rss>
